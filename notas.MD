@@ -15,4 +15,4 @@
 - buscar a atividade no github
 - exibir as atividades recentes
 
-total de horas no projeto : 1 hora
+total de horas no projeto : 2 horas
